@@ -140,7 +140,7 @@
     background-color: #11111125;
     bottom: 0;
     left: 0;
-    position: absolute;
+    position: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
